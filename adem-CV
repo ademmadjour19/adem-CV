@@ -1,0 +1,32 @@
+{
+  "name": "Madjour Adem Nour El Hak",
+  "university": "WSB Merito University, Gdańsk",
+  "languages": ["English", "French", "Arabic"],
+  "skills": ["Java", "Python", "C", "C++"],
+  "education": {
+    "degree": "Baccalaureate",
+    "GPA": 14.22,
+    "year": 2023
+  },
+  "goal": "Develop a smart hydraulic system monitoring solution using sensors and AI to predict failures and improve efficiency.",
+  "projects": [
+    {
+      "name": "Smart Hydro AI",
+      "description": "A predictive system using AI and sensors to monitor hydraulic networks and prevent failures.",
+      "technologies": ["Python", "AI", "IoT"]
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "A personal website to showcase my skills and projects.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+      "name": "Introduction to AI",
+      "provider": "Udemy"
+  "hobbies": ["Competitive programming", "Building AI models", "Experimenting with IoT", "Participating in coding challenges"],
+  "contact": {
+    "email": "adem@example.com",
+    "github": "https://github.com/ademmadjour",
+    "linkedin": "https://www.linkedin.com/in/ademmadjour"
+  }
+} 
