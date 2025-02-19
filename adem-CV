@@ -21,12 +21,14 @@
       "technologies": ["HTML", "CSS", "JavaScript"]
     }
   ],
-      "name": "Introduction to AI",
-      "provider": "Udemy"
-  "hobbies": ["Competitive programming", "Building AI models", "Experimenting with IoT", "Participating in coding challenges"],
+  "hobbies": [
+    "Competitive programming",
+    "Building AI models",
+    "Experimenting with IoT",
+    "Participating in coding challenges"
+  ],
   "contact": {
-    "email": "adem@example.com",
-    "github": "https://github.com/ademmadjour",
-    "linkedin": "https://www.linkedin.com/in/ademmadjour"
+    "email": "elhak.madjour@ensh.dz",
+    "github": "https://github.com/adammadjour19"
   }
-} 
+}
